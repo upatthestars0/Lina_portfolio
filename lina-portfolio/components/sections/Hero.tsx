@@ -18,7 +18,7 @@ export default function Hero() {
 
             <div className="flex items-center gap-4 text-sm font-mono text-gray-500">
             <span className="flex h-2 w-2 rounded-full bg-emerald-500" />
-            Currently exploring: scalable inference for diagnostic imaging
+            Currently writing my MEng thesis: automatic herniation detection in spine MRI with Deep Learning (nnU-Net and custom ML model) with Dr Nicolas Newell and PhD student Thomas Slater
             </div>
         </div>
         </section>
