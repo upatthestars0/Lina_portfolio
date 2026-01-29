@@ -12,3 +12,10 @@ app/
  ├─ globals.css     → styles
 components/         → reusable UI blocks
 public/             → images
+
+
+create
+components/
+  ├─ layout/
+  ├─ sections/
+  └─ ui/
