@@ -24,11 +24,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
+      <body className="antialiased">
+        <main className="mx-auto max-w-5xl px-6 py-24">
+          {children}
+        </main>
       </body>
+
     </html>
   );
 }

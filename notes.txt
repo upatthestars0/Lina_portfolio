@@ -1,0 +1,14 @@
+How to build a website?
+
+1. run this in a terminal to start:
+npx create-next-app@latest website-name-here
+cd lina-portfolio
+npm run dev
+
+-> then you'll have this:
+app/
+ ├─ page.tsx        → your homepage
+ ├─ layout.tsx      → global layout
+ ├─ globals.css     → styles
+components/         → reusable UI blocks
+public/             → images
